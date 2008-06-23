@@ -1,0 +1,7 @@
+bcfg2.tmbundle
+--------------
+
+a few small conveniences for editing bcfg2 repositories.
+
+snippets follow the convention of using '>' for abstract entries and '<' for
+specific entries, which maps well in my mind to the xml bundle snippets.

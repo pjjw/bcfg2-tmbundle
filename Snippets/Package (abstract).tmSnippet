@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;Package name='${1:package}' /&gt;</string>
+	<key>name</key>
+	<string>Package (abstract)</string>
+	<key>scope</key>
+	<string>text.xml.bcfg2</string>
+	<key>tabTrigger</key>
+	<string>&gt;p</string>
+	<key>uuid</key>
+	<string>8CF7163F-8C61-4E6B-9D6C-65CC1D44DC04</string>
+</dict>
+</plist>

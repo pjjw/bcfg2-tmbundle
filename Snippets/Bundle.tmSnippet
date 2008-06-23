@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;Bundle name='${1:bundle}' /&gt;</string>
+	<key>name</key>
+	<string>Bundle</string>
+	<key>tabTrigger</key>
+	<string>&gt;b</string>
+	<key>uuid</key>
+	<string>ADF86D17-471A-4D28-B15A-90EB6BFF2028</string>
+</dict>
+</plist>

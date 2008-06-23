@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;Group name='${1:name}'&gt;$0&lt;/Group&gt;</string>
+	<key>name</key>
+	<string>Group (long)</string>
+	<key>scope</key>
+	<string>text.xml.bcfg2</string>
+	<key>tabTrigger</key>
+	<string>&lt;g</string>
+	<key>uuid</key>
+	<string>3439A0B8-5788-46DA-B4BE-7418D8F0A40B</string>
+</dict>
+</plist>

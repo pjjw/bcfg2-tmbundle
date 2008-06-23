@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;Service name='${1:service}' status='${2:on}' reload='${3:reload}' type='${4:debinit}' /&gt;</string>
+	<key>name</key>
+	<string>Service (literal)</string>
+	<key>scope</key>
+	<string>text.xml.bcfg2</string>
+	<key>tabTrigger</key>
+	<string>&lt;s</string>
+	<key>uuid</key>
+	<string>07B721F3-8962-458F-8CA4-3A2C905C21F7</string>
+</dict>
+</plist>
